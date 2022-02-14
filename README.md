@@ -14,6 +14,7 @@ The upcoming “silver tsunami” will impact seven departments and just over 70
 
 Pewlett Hackard does not have enough qualified, retirement-ready employees in their departments to mentor the next generation.  The following tables provide information there are only 1,550 eligible employees for the mentorship.
 
+![This is an image](https://github.com/bradrobe/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/mentorship_eligibility.png)
  
-
+![This is an image]
  
