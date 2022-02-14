@@ -16,5 +16,5 @@ Pewlett Hackard does not have enough qualified, retirement-ready employees in th
 
 ![This is an image](https://github.com/bradrobe/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/mentorship_eligibility.png)
  
-![This is an image]
+![This is an image](https://github.com/bradrobe/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/mentorship_eligibility2.png)
  
