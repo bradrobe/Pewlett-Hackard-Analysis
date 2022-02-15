@@ -20,4 +20,6 @@ Pewlett Hackard does not have enough qualified, retirement-ready employees in th
  
  Further breakdown of eligible mentors is broken down in the following table.  The qury used to run the query is also provided below:
  
+![This is an image](https://github.com/bradrobe/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility3.png)
+ 
 ![This is an image](https://github.com/bradrobe/Pewlett-Hackard-Analysis/blob/main/membership_eligibility4.png)
